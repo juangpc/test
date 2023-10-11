@@ -1,4 +1,4 @@
-RT	SSD	accuracy	rt	stop_signal	subject_nr	target					
+RT	SSD	accuracy	rt	stop_signal	subject_nr	target	StopSignalCorrectness	DirectionCorrectness	TrialType	TimeOnset	TrialDuration
 1356.00018501	350	undefined	0	0	0	right	incorrect_stop	undefined	incorrect_stop_undefined	0	2.6
 -	-	-	-	-	-	-	-	-	rest	2.6	2.6
 1358.00004005	300	undefined	0	1	0	right	correct_stop	undefined	correct_stop_undefined	5.2	2.6
